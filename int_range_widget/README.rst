@@ -37,3 +37,8 @@ Thank you.
 Configuration
 =============
 
+.. figure:: usage.png
+   :alt: Input Usage
+   :scale: 80 %
+   :align: center
+   :figclass: text-center
