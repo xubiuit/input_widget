@@ -17,27 +17,5 @@
 #
 #    You should have received a copy of the GNU Affero General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#    
-#    Background Source: http://forum.xda-developers.com/showpost.php?p=37322378
 #
 ##############################################################################
-{
-    'name': 'Percentage Range Widget',
-    'summary': 'This project aims to create percentage range for input',
-    'version': '9.0.1.0',
-    'category': 'Tools',
-    'summary': """
-This project aims to create percentage range for input
-""",
-    'author': "binhnguyenxuan (www.xubi.me)",
-    'website': 'http://www.xubi.me',
-    'license': 'AGPL-3',
-    'depends': [
-    ],
-    'data': [
-    ],
-    'qweb': [
-    ],
-    'installable': True,
-    'application': True,
-}

@@ -8,5 +8,5 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[percentage_range_widget](percentage_range_widget/) | 9.0.1.0 | Percentage Range Widget
+[int_range_widget](int_range_widget/) | 9.0.1.0 | Int Range Widget
 

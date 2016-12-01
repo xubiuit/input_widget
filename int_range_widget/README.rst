@@ -1,7 +1,7 @@
 =======================
-Percentage Range Widget
+Integer Range Widget
 =======================
-This project aims to create percentage range for input
+This project aims to create integer range for input
 
 Contact
 =======
@@ -17,7 +17,7 @@ Contact
 Installation
 ============
 Installation process is at present stage only possible in manual way.
-Then go to you odoo web interface to the module section and start "Update module list". Then look for the "Percentage Range Widget" in Apps (module list) and install.
+Then go to you odoo web interface to the module section and start "Update module list". Then look for the "Integer Range Widget" in Apps (module list) and install.
 I hope you enjoy checking out what all you can do with this application.
 
 
@@ -30,7 +30,7 @@ In this case you have to install the modules into /opt/odoo/custom/addons. At th
 
 Usage
 =====
-Maybe images in github do not fit with the Odoo apps, so you can check: https://apps.odoo.com/apps/modules/9.0/percentage_range_widget/ for more details.
+Maybe images in github do not fit with the Odoo apps, so you can check: https://apps.odoo.com/apps/modules/9.0/int_range_widget/ for more details.
 Thank you.
 
 
